@@ -1,14 +1,14 @@
-algoritmo "Não sei pra quê serve."
-// Função :
+algoritmo "NÃ£o sei pra quÃª serve."
+// FunÃ§Ã£o :
 // Autor :
 // Data : 13/07/2021
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 Angulo, S: Real
 inicio
-Escreva ("Informe um ângulo: ")
+Escreva ("Informe um Ã¢ngulo: ")
 Leia (Angulo)
 S <- Sen(GraupRad(Angulo))
 //Seno desse angulo convertido de graus para radianos.
-Escreva ("O Seno de", Angulo, " é igual a", S)
+Escreva ("O Seno de", Angulo, " Ã© igual a", S)
 fimalgoritmo
